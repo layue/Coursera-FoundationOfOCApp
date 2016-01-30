@@ -44,6 +44,7 @@
     self.currencyA.text = euroV;
     self.currencyB.text = jpyV;
     self.currencyC.text =  gbpV;
+    //this is a test
 }
 
 
